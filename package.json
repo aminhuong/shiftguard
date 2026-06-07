@@ -1,0 +1,24 @@
+{
+  "name": "shiftguard",
+  "version": "1.0.0",
+  "description": "ShiftGuard is a mock workforce compliance backend system for tracking employee breaks, leave usage, overtime, and manager alerts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_OPTIONS='--experimental-vm-modules' jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminhuong/shiftguard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aminhuong/shiftguard/issues"
+  },
+  "homepage": "https://github.com/aminhuong/shiftguard#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
